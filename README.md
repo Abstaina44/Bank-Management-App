@@ -5,14 +5,20 @@ This is a console-based project. All You have to do is run the program and it wi
 
 Features of this Bank Management App.
 
-Basically, you can have all sorts of functionality that normal banks do have.
+Basically,you can have all sorts of functionality that normal banks do have.
 
 -Open a new account
+
 -Deposit amount
+
 -Withdraw Amount
+
 -Balance Enquiry
+
 -All Account Holder List
+
 -Close Bank Account
+
 -Modify Bank Account
 
 Done by Ephraim Abstaina,
