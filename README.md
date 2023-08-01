@@ -1,4 +1,5 @@
-/Users/abstaina/Desktop/Screenshot\ 2023-08-01\ at\ 11.54.46.png
+
+<img width="752" alt="Screenshot 2023-08-01 at 11 54 46" src="https://github.com/Abstaina44/Bank-Management-App/assets/48015890/8882e63c-746c-437c-991f-521a340e2101">
 
 This is a console-based project. All You have to do is run the program and it will open up in the console or terminal depending on whatever IDLE or Code Editor is using. This program is written in classes and objects. 
 
